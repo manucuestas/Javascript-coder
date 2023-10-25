@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .todo {
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .batalla {
+    
+    margin-bottom: 15px;
+  }
+   
+.batalla img{
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.pega-rojo{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.pega-rojo img{
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.pega-rojo h3{
+    margin-bottom: 5px;
+}
+
+.pega-azul{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.pega-azul img{
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.pega-azul h3{
+margin-bottom: 5px;
+}
+
+.ganoblue{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.ganoblue img{
+    width: 900px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.ganoblue h3{
+    margin-bottom: 5px;
+}
+
+.ganored{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.ganored img{
+    width: 900px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.ganored h3{
+    margin-bottom: 5px;
+}
